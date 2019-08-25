@@ -1,1 +1,1 @@
-![Image text](https://github.com/Scavenger-s/TowerDefense/raw/master/timg.png)
+![Image text](https://github.com/Scavenger-s/TowerDefense/raw/master/timg.jpg)
